@@ -12,7 +12,7 @@ The Live Code Editor for HTML, CSS, and JavaScript is a powerful web application
 
 ## Getting Started
 
-1. Clone the repository or download the source code or click on the link :-  [Click Here]([https://www.example.com](https://sajal-code-editor.netlify.app/))
+1. Clone the repository or download the source code or click on the link :-  [Click Here]([(https://sajal-code-editor.netlify.app/)])
 2. Open the Live Code Editor in a web browser
 3. Start writing, editing, and previewing your HTML, CSS, and JavaScript code in real time.
 4. Utilize the various features such as syntax highlighting to enhance your coding experience.
